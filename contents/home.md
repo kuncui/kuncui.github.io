@@ -8,7 +8,7 @@ The goal of my research has always been to identify language universals and expl
 kucui[at]ucsd.edu.
 
 #### Education
-M.A., Linguistics, Tsinghua University, 2022—2025./
+M.A., Linguistics, Tsinghua University, 2022—2025.\
 B.A., Japanese, Beijing Foreign Studies University, 2018—2022.
 
 #### Research Interests
