@@ -1,16 +1,16 @@
 
 
-My name is Kun Cui （/kʰun tsʰui/）. I am currently pursuing a master's degree in linguistics at the School of Humanities, Tsinghua University. My work primarily focuses on the syntax of East Asian languages, particularly relative clause and tough-construction, both traditionally considered to derive from wh-movement. Specifically, I study the properties of noun phrases in these constructions, including reconstruction, intervention effect and their thematic roles. Additionally, I am also interested in Chinese ba-constructions, serial verb constructions and classifiers in both Chinese and Japanese. From a syntax-semantics interface perspective, I use formal semantics to explain these phenomena.
+My name is Kun Cui （/kʰun tsʰui/）. I am a PhD candidate in the Department of Linguistics, at the University of California - San Diego. My work primarily focuses on A'-movement, particularly relative clauses and tough-constructions. From the perspective of syntax-semantics interface, I use both formal devices and experimental approaches to study the reconstruction and intervention effects in these constructions.
 
-The goal of my research has always been to identify language universals and explain crosslinguistic variations under the principles and parameters approach. I have been learning Japanese since middle school(2012). With collaborators, I have also worked on other East Asian languages, including Korean and Manchu. In addition, I also have strong interest in ergative-absolutive languages, and I'm currently learning Basque.
+The goal of my research has always been to identify language universals and explain crosslinguistic variations under the Principles and Parameters(P&P) approach. So far, Mandarin and Japanese have been my primary research objects. With collaborators, I have also worked on Korean and Manchu.
 
 #### Email
-cuik22[at]mails.tsinghua.edu.cn
+kucui[at]ucsd.edu.
 
 #### Education
-M.A., Linguistics, Tsinghua University, 2022—2025 (expected).\
+M.A., Linguistics, Tsinghua University, 2022—2025.
 B.A., Japanese, Beijing Foreign Studies University, 2018—2022.
 
 #### Research Interests
-Syntax, syntax-semantics interface, generative typology, language universals and variations.
+Syntax, syntax-semantics interface, linguistic typology, language universals and variations.
 
